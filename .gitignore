@@ -1,0 +1,5 @@
+*.dSYM
+/hello
+*.o
+*.pcm
+cmake-build*
